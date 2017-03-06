@@ -143,7 +143,7 @@ margin-right:12cm;
 <div id="logintable">
 
 
-<h1>Student Discussion & Help</h1>
+<h1>Register</h1>
 
 
   
